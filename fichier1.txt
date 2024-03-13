@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 5022-2273
+
+ Directory of C:\Users\sadik\OneDrive\Desktop\git-test
+
+03/14/2024  12:53 AM    <DIR>          .
+03/14/2024  12:53 AM    <DIR>          ..
+03/14/2024  12:53 AM                 0 f.txt
+03/14/2024  12:53 AM                 0 fichier1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  99,819,753,472 bytes free
